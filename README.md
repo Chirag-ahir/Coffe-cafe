@@ -1,2 +1,2 @@
-# Coffe-cafe
+# Coffee-cafe
 ![](thumbnail.png)
